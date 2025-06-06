@@ -1,0 +1,18 @@
+Transaction ID: 1
+Date & Time: 2025-06-06 13:45:13
+Cashier: usr
+Items Purchased:
+  - Tosilog x2 (Half Rice) - $174.00
+  - Spamsilog x3 (Java Rice) - $276.00
+  - Hungariansilog x4 (None) - $380.00
+Total Amount: $830.00
+=============================================
+Transaction ID: 2
+Date & Time: 2025-06-06 13:46:48
+Cashier: karl
+Items Purchased:
+  - Tapsilog x1 (Rice) - $90.00
+  - Tapsilog x1 (Rice) - $90.00
+  - Tosilog x4 (Java Rice) - $368.00
+Total Amount: $548.00
+=============================================
